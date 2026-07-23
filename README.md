@@ -2,7 +2,8 @@
 
 ###
 
-<h4 data-importer="text" align="left">My name is Milan<br>I'm a Software Developer from Hungary</h4>
+<h4 data-importer="text" align="left">My name is Milan<br>Software Developer<br>HTL graduate</h4>
+<p>Originally from Hungary but I live in Austria ;)</p>
 
 ###
 

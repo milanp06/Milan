@@ -3,7 +3,7 @@
 
 <h3>- 🔭 I’m currently working on **a FiveM server**</h3>
 
-<h3>- 🌱 I’m currently learning **JavaScript, React**</h3>
+<h3>- 🌱 I’m currently learning **JavaScript, Typescript, React**</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

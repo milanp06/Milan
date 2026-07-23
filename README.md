@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Milan</h1>
-<h3 align="center">A passionate software developer from Hungary</h3>
+<h2 align="center">A passionate software developer from Hungary</h2>
 
-- 🔭 I’m currently working on **a FiveM server**
+<h3>- 🔭 I’m currently working on **a FiveM server**</h3>
 
-- 🌱 I’m currently learning **JavaScript, React**
+<h3>- 🌱 I’m currently learning **JavaScript, React**</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

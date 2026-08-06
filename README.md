@@ -11,7 +11,10 @@
 
 ###
 
-<p data-importer="text" align="left">✨ Creating bugs since 2006<br>📚 I'm currently learning JavaScript, TypeScript and React.js<br>🎯 Goals: Learn the programming languages mentioned above<br>🗣️ Languages: English, German, Hungarian</p>
+<p data-importer="text" align="left">✨ Writing code (and the occasional bug) since 2006<br>
+📚 Currently diving into JavaScript, TypeScript & React<br>
+🎯 Building my skills toward a career as a Frontend/Software Developer<br>
+🌍 EN / DE / HU</p>
 
 ###
 
